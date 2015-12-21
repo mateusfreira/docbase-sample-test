@@ -18,7 +18,7 @@ var docbaseConfig = {
     "branch": ""
   },
   "indexHtml": "html/main.html",
-  "flatdocHtml": "../bower_components/docbase/html/flatdoc.html",
+  "flatdocHtml": "./bower_components/docbase/html/flatdoc.html",
   "html5mode": false,
   "versions" : {
     "v1": [{
